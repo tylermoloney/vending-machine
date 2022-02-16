@@ -1,1 +1,2 @@
 # vending-machine
+This project was written as the capstone for module 1 of the Tech Elevator Bootcamp. This application simulates a vending machine with a CLI. It handles reading in inventory for the machine via a csv, accepts "cash" from the user in acceptable denominations, allows the user to make a selection, then "dispenses" the necessary coins to make the change. All actions are logged, along with a Sales Report to keep track of all items sold.
